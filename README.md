@@ -1,4 +1,4 @@
-# cssmodulo5ferramenta
+# Ferramenta css para ajudar o desenvolvendo.
 #1.Instale o prompt-sync no Terminal do VSCode, com o comando npm install prompt-sync:
 
 #2.Execute o node com o arquivo index.js:
